@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background: #333;
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.project, .experience  {
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background: #4CAF50;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+h1,h2 {
+    font-family: 'Montserrat', sans-serif; /* For headings */
+}
+
+body {
+    font-family: 'Roboto', sans-serif; /* For body text */
+}
+body {
+    background-color: #E0F2F1; /* Light Mint */
+    color: #333;               /* Dark text for readability */
+}
+
+h1, h2 {
+    color: #001F3F;           /* Deep Navy for headings */
+}
